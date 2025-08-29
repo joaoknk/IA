@@ -14,6 +14,13 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 100vh;
-
-
 }
+ .caixa-rincipal{
+
+    background-color: var(--cor-principal);
+    width: 90%;
+    max-width: 600px;
+    text-align: 20px;
+    padding: 20px;
+    
+ }
